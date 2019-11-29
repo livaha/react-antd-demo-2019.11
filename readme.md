@@ -26,4 +26,4 @@ yarn build(打包)
 
 ## 简单项目演示
 
-![](https://user-gold-cdn.xitu.io/2019/11/29/16eb663003714a75?w=1114&h=856&f=gif&s=307007)
+![](doc/6.gif)
