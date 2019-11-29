@@ -1,14 +1,14 @@
 import React from 'react';
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import Routes from './routes';
 import Frame from './layout/Frame';
 
 function App() {
-  return (<BrowserRouter>
+  return (<HashRouter>
     <Frame>
       <Routes/>
     </Frame>
-  </BrowserRouter>
+  </HashRouter>
   );
 }
 
